@@ -1,4 +1,4 @@
-84886454452	die Ansage, -n	Hören Sie auf die Ansagen.	announcement	Listen to the announcements.		[sound:googletts-f8932bbf-fb28d658-c483c0e6-302ff0a0-168d0e51.mp3]
+84886454452	die Ansage, -n	Hören Sie auf die Ansagen.	Anuncio	Escuche los anuncios.		[sound:googletts-f8932bbf-fb28d658-c483c0e6-302ff0a0-168d0e51.mp3]
 84886454453	der Anschluss	In Mannheim haben Sie Anschluss nach Saarbrücken.	connection	In Mannheim you have a connection to Saarbrücken.		[sound:googletts-eb2508ae-dc2eeb2f-4baf4b77-1a2b2016-a134ca49.mp3]
 84886454454	der Anschluss	Ist das die Anmeldung für einen Telefonanschluss?	connection	Is that the application for a telephone connection?		[sound:googletts-1b55e30e-05f02958-e7ac5bc8-94f45979-aaf74fd7.mp3]
 84886454455	an sein	Heute Nacht war das Licht an.	to be (switched) on	The light was on tonight.		[sound:googletts-90ef828d-c517d77a-8813bb67-f62ff6e3-6e7b69b0.mp3]
